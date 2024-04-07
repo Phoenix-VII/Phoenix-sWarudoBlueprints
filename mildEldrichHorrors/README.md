@@ -1,4 +1,4 @@
-These are blueprints and scenes that I didn't originally intend to upload but decided to upload anyway just because of how much work I put into them, and I want to see them actually used by someone who would appreciate the insanity.
+These are blueprints and scenes that I didn't originally intend to upload but decided to upload anyway just because of how much work I put into them, and I want to see them actually used or studied by someone who would appreciate the insanity.
 
 If you want to know why I call these blueprints mild eldrich horrors, it either requires an unreasonable amount of setup, or the blueprint takes a noticable amount of time to load in the editor due to the sheer size of it.
 
