@@ -1,3 +1,5 @@
+This is not compatible with the activator dependency blueprints and only works with twitch channel points. While it's not hard for me to make it work, I don't really feel like it at the moment so if you need it for YT, just copy and paste a chunk from the pixelation blueprint. The way it works is honestly super simple.
+
 I originally created this blueprint specifically for a vtuber I used to work with. But since I don't work with them anymore, and there has been no exclusivity agreement or any contracts, I'm posting this blueprint so that someone would make real use of it.
 
 This requires Feline's Heart Containers as a dependency. It can be found at https://steamcommunity.com/sharedfiles/filedetails/?id=3016017071&searchtext=heart+container
