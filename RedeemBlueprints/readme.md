@@ -3,7 +3,7 @@ No refunds if you break them.
 
 Rainbow Redeem and the random color function in Liquid Throw Redeem requires the "Rainbow Node" from the steam workshop, you can find it here: https://steamcommunity.com/sharedfiles/filedetails/?id=3016521495&searchtext=rainbow
 
-HeadPatHandAsset is an asset required for the Headpat redeems to work, which I did not upload.
+HeadPatHandAsset is an asset required for the Basic Headpat redeems to work.
 
 No need to thank me, but if you insist, feel free to drop a few bucks in my tip-jar.
 My tip-jar: (https://ko-fi.com/commander_phoenix_#)
