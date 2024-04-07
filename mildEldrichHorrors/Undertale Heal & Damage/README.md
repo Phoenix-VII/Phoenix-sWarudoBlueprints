@@ -1,0 +1,1 @@
+I originally created this blueprint specifically for a vtuber I used to work with. But since I don't work with them anymore, and there has been no exclusivity agreement or any contracts, I'm posting this blueprint so that someone would make real use of it.
